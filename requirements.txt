@@ -1,0 +1,9 @@
+requests
+prettytable
+json
+pandas
+plotly
+matplotlib
+fastapi
+uvicorn
+nest_asyncio
