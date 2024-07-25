@@ -11,8 +11,9 @@
 - Visualização de Dados: Geração de gráficos interativos utilizando as bibliotecas Plotly e Matplotlib;
 - FastAPI: A aplicação FastAPI fornece um endpoint para acessar os dados carregados.
 
-
 ## Estrutura do Projeto
-main.py: Contém a implementação da API FastAPI.
-cpi_data.csv: Arquivo CSV com os dados do CPI utilizados.
-requirements.txt: Lista de dependências do projeto.
+
+test.py: arquivo Python
+requirements.txt: Arquivo que lista as dependências necessárias do projeto.
+Test.ipynb: Para visualização do notebook feito no Google Colab
+newplot.png: Imagem do gráfico da questão 2 (question 2) criado pelo Plotly. 
