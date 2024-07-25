@@ -13,7 +13,7 @@
 
 ## Estrutura do Projeto
 
-test.py: arquivo Python
-requirements.txt: Arquivo que lista as dependências necessárias do projeto.
-Test.ipynb: Para visualização do notebook feito no Google Colab
-newplot.png: Imagem do gráfico da questão 2 (question 2) criado pelo Plotly. 
+- test.py: arquivo Python
+- requirements.txt: Arquivo que lista as dependências necessárias do projeto.
+- Test.ipynb: Para visualização do notebook feito no Google Colab
+- newplot.png: Imagem do gráfico da questão 2 (question 2) criado pelo Plotly. 
